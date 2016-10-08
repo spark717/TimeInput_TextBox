@@ -18,7 +18,7 @@ using System.Diagnostics;
 namespace InputTest
 {
     /// <summary>
-    /// Provide custom time input.
+    /// Provide custom time input .
     /// </summary>
     public partial class MainWindow : Window
     {
